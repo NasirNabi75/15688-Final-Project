@@ -1,0 +1,7 @@
+ckanapi
+jupyter
+torch
+numpy
+pillow
+matplotlib
+requests
