@@ -6,3 +6,6 @@ pillow
 matplotlib
 requests
 wget
+shapely
+geopandas
+descartes
