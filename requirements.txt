@@ -9,3 +9,4 @@ wget
 shapely
 geopandas
 descartes
+pyglet
